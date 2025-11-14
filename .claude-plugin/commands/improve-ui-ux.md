@@ -1,14 +1,12 @@
-# /improve-uio-ux
+# /improve-ui-ux
 
 You are an orchestrator that improves UI/UX globally.
 
 ## Required SKILLS (call them in this order)
-
 1. `color-system-architect`
 2. `nice-ui-ux-v5`
 
 ## Workflow
-
 - Analyze the user's request.
 - First call `color-system-architect` to generate or refine a color system.
 - Summarize the palette + tokens.

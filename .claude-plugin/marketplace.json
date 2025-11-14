@@ -1,7 +1,22 @@
 {
-  "name": "improve-ui-ux",
-  "description": "A global plugin that orchestrates ui/ux improvements using color-system-architect and nice-ui-ux-v5.",
-  "version": "1.0.0",
-  "tags": ["ui", "ux", "design", "colors", "orchestration", "frontend"],
-  "entrypoints": ["/improve-ui-ux"]
+  "owner": "rogeriosantos",
+  "plugins": [
+    {
+      "name": "improve-ui-ux",
+      "description": "A global plugin that orchestrates color-system-architect and nice-ui-ux-v5 to improve UI/UX.",
+      "version": "1.0.0",
+      "entrypoints": [
+        "/improve-ui-ux"
+      ],
+      "tags": [
+        "ui",
+        "ux",
+        "design",
+        "colors",
+        "frontend",
+        "orchestration"
+      ],
+      "path": "./.claude-plugin"
+    }
+  ]
 }

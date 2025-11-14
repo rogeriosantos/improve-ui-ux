@@ -1,0 +1,6 @@
+{
+  "name": "improve-uio-ux",
+  "version": "1.0.0",
+  "description": "Orchestrates color-system-architect and nice-ui-ux-v5 to improve UI/UX.",
+  "commands": ["./commands/improve-uio-ux.md"]
+}

@@ -1,22 +1,24 @@
 {
-  "owner": "rogeriosantos",
+  "name": "improve-ui-ux-marketplace",
+  "owner": {
+    "name": "Rogerio Santos"
+  },
+  "metadata": {
+    "description": "Marketplace exposing the improve-ui-ux plugin.",
+    "version": "1.0.0"
+  },
   "plugins": [
     {
       "name": "improve-ui-ux",
-      "description": "A global plugin that orchestrates color-system-architect and nice-ui-ux-v5 to improve UI/UX.",
+      "description": "Orchestrates color-system-architect and nice-ui-ux-v5 to improve UI/UX.",
       "version": "1.0.0",
-      "entrypoints": [
-        "/improve-ui-ux"
-      ],
-      "tags": [
-        "ui",
-        "ux",
-        "design",
-        "colors",
-        "frontend",
-        "orchestration"
-      ],
-      "path": "./.claude-plugin"
+      "author": {
+        "name": "Rogerio Santos"
+      },
+      "source": "./plugins/improve-ui-ux",
+      "category": "design",
+      "tags": ["ui", "ux", "design", "colors", "frontend", "orchestration"],
+      "keywords": ["ui-ux", "design-system", "color-system", "frontend"]
     }
   ]
 }

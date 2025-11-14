@@ -1,0 +1,7 @@
+{
+  "name": "improve-ui-ux",
+  "description": "A global plugin that orchestrates ui/ux improvements using color-system-architect and nice-ui-ux-v5.",
+  "version": "1.0.0",
+  "tags": ["ui", "ux", "design", "colors", "orchestration", "frontend"],
+  "entrypoints": ["/improve-ui-ux"]
+}
